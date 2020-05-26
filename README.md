@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 ## Description
-The Tic-Tac-Toe is a terminal two players game.
+The Tic-Tac-Toe is a terminal two players game.  
 Each turn, a player enter the coordinates "Y X" of a position in the grid. Y corresponds to the row, from 1 to 3. X corresponds to the column, from 1 to 3.
 
 ### Preview

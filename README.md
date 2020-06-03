@@ -12,6 +12,14 @@ Each turn, a player enter the coordinates "Y X" of a position in the grid. Y cor
 ### Related course
 JET BRAINS ACADEMY | PYTHON DEVELOPER
 
+### Description of the project by JET BRAINS ACADEMY
+
+#### About
+Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!
+
+#### Learning outcomes
+After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using functions, handling errors, and processing user input.
+
 ### Technologies | Libraries | Frameworks | Tools  
 - Python 3
 
@@ -25,4 +33,4 @@ Completed
 18/05/2020
 
 #### Last update (README.md)
-26/05/2020
+03/06/2020

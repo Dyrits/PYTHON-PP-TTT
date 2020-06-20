@@ -24,7 +24,7 @@ After finishing this project, you'll get to know a lot about planning and develo
 - Python 3
 
 ### Details | Comments
-- This project has been made from scratch following specific instructions. 
+- This project has been made from scratch following specific instructions.  
 
 ### Status
 Completed
@@ -33,4 +33,4 @@ Completed
 18/05/2020
 
 #### Last update (README.md)
-03/06/2020
+20/06/2020
